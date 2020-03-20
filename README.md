@@ -1,3 +1,3 @@
 # ios-WeatherApp
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+<img src="https://github.com/osmankahya/ios-WeatherApp/blob/master/1.png" width="250"/>
